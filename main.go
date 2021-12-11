@@ -8,6 +8,7 @@ import (
 type A struct {
 	id int
     name string
+    age int
 }
 
 func main() {
