@@ -4,4 +4,5 @@ main(){
 
     a int
 
+    b int
 }
