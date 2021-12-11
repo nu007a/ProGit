@@ -7,6 +7,7 @@ import (
 
 type A struct {
 	id int
+    name string
 }
 
 func main() {
