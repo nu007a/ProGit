@@ -1,5 +1,5 @@
 # ProGit
-study Git pro
+usrts Git pro
 99999999
 
 # add DEV
