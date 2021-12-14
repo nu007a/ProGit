@@ -18,15 +18,7 @@ add 9 feat2
 add 10 feat1
 add 10 feat2
 add 10 feat3
-add 9 feat1
-add 9 feat1
-add 9 feat1
-add 9 feat1
-add 9 feat1
-add 9 feat1
-add 9 feat1
-add 9 feat1
-add 9 feat1
+
 release
 adsfads
 adsfadsadsf
