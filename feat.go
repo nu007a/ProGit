@@ -13,5 +13,6 @@ main(){
     //add
     //add
     //add
+    //fix bug 12
 
 }
